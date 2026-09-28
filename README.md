@@ -4,11 +4,18 @@ A Unity sandbox where I build and test common game systems one at a time: a firs
 
 This is a learning project, not a finished game.
 
-First person View
+First person View 
+
 <img width="505" height="462" alt="image" src="https://github.com/user-attachments/assets/c5189ff1-3ba2-420c-8dcb-a1b268067438" />
-Scene View
+
+
+Scene View 
+
 <img width="426" height="322" alt="image" src="https://github.com/user-attachments/assets/ed89f14d-f08b-4ac9-9eef-9b2c610528f2" />
-Inventory
+
+
+Inventory 
+
 <img width="1370" height="850" alt="image" src="https://github.com/user-attachments/assets/cbb1810e-342a-46fe-b441-961d9754f529" />
 
 
