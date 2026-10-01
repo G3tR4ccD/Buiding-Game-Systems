@@ -94,11 +94,6 @@ Not built yet:
 - Pickups and drops in the world.
 - The attack combo plays animations but doesn't deal damage yet.
 
-## How I built it
-
-<!-- Change this to match how you actually built the project. -->
-I followed Unity tutorials and asked Claude (an AI assistant) for help when I got stuck. I tested and adjusted the results in my own project.
-
 ## What I practiced
 
 - Events, so one script can react to another without constant checking.
